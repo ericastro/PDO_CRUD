@@ -1,0 +1,3 @@
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Trabalhando_com_Objetos
+
+https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript
